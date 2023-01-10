@@ -1,8 +1,5 @@
 package reports;
 
-import org.example.notes.core.domain.FormatOfReport;
-import org.example.notes.core.domain.TypeOfReport;
-
 import java.util.Date;
 
 public interface Database {
